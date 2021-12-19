@@ -1,0 +1,28 @@
+header{
+	background-color:#A1865A ;
+	text-align: center;
+	padding-top:40px ;
+	padding-bottom: 25px;
+	
+
+}
+
+header h1 {
+
+    font-family:Playfair Display ;
+	font-weight:bold;
+	text-transform:uppercase ;
+}
+header img{
+	max-height:350px ;
+	max-width:350px ;
+	margin: 0px;
+	width:400px ;
+	border:5px solid wheat ;
+	border-radius:35px ;
+
+}
+main {
+	text-align: center;
+	background-color:#D3BB94 ;
+}
