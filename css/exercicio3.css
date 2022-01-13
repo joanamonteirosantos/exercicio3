@@ -26,3 +26,38 @@ main {
 	text-align: center;
 	background-color:#D3BB94 ;
 }
+p{font-family: 'Montserrat', sans-serif;
+font-weight: 500;}
+
+
+
+.Helen{
+
+	background-color: yellow;
+	width: 400px;
+	padding: 50px;
+	border: solid 20px darkorange;
+}
+
+div.Joana p{
+
+}
+.Joana{
+	background-color: skyblue;
+	width: 400px;
+	padding: 30px;
+	border: solid 10px blueviolet;
+}
+
+a:hover{
+	background-color: darkorange;
+	color: white;
+}
+
+
+
+
+
+
+
+
